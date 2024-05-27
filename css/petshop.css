@@ -43,6 +43,7 @@ nav a:hover{
 }
 
 form{
+
     width: 380px;
 }
 form input,
@@ -120,4 +121,14 @@ h2{
     text-decoration: none;
     color: #000;
     border-radius: 5px;
+}
+h6{
+    text-align: center;
+    font-size: small;
+    margin-bottom: 30px;
+}
+hr{
+    margin-bottom: 40px;
+    border-top: 1px solid #6DD432;
+    background-color: #6DD432;
 }

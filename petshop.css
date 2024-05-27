@@ -18,6 +18,7 @@ header h1 {
     height: 84px;
 }
 
+
 nav {
     text-align: center;
     padding: 15px 0;
@@ -92,4 +93,10 @@ nav a:hover{
     text-decoration: none;
     color: #000;
     border-radius: 5px;
+}
+.linha{
+    background-color: #6DD432;
+}
+h6{
+    text-align: center;
 }
